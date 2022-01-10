@@ -10,6 +10,7 @@ public class Nivelacion1 {
         double numero = 6.1;
         float decimal2 = (float) numero;
         int decimalCorto = (int) decimal2;
+        int numero22 = 5;
         
         System.out.println(numero);
         System.out.println(decimal2);
